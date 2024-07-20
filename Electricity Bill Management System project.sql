@@ -1,5 +1,6 @@
-use Electricity;
+
 create database Electrity;
+use Electricity;
 CREATE TABLE Customer (
     Cust_Id INT PRIMARY KEY,
     Cust_Name VARCHAR(255),
